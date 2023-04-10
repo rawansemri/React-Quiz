@@ -52,9 +52,9 @@ const Math = () => {
       </>
     );
   return (
-    <div>
+    <div>      <Link to={'/'}> <button>Back</button></Link>
+
       <div className={styles.topDiv}>
-      <Link to={'/'}> <button>Back</button></Link>
       <p className={styles.title}>Math Quiz</p>
       </div>
       <form className={styles.mathForm} onSubmit={handleSubmit}>

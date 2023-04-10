@@ -53,9 +53,9 @@ const Computer = () => {
       </>
     );
   return (
-    <div>
+    <div>      <Link to={'/'}> <button>Back</button></Link>
+
       <div className={styles.topDiv}>
-      <Link to={'/'}> <button>Back</button></Link>
       <p className={styles.title}>Computer Quiz</p>
       </div>
       <form className={styles.computerForm} onSubmit={handleSubmit}>

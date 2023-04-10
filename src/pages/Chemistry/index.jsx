@@ -53,9 +53,8 @@ const Chemisrty = () => {
       </>
     );
   return (
-    <div>
+    <div><Link to={'/'}> <button>Back</button></Link>
       <div className={styles.topDiv}>
-      <Link to={'/'}> <button>Back</button></Link>
       <p className={styles.title}>Chemisrty Quiz</p>
       </div>
       <form className={styles.chemisrtyForm} onSubmit={handleSubmit}>

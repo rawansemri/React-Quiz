@@ -39,10 +39,3 @@
   margin-left: auto;
   margin-right: auto;
 }
-
-.topDiv {
-  display: flex;
-  justify-content: space-between;
-  margin-right: 0px;
-  width: 56%;
-}

@@ -24,6 +24,7 @@
     color:  #c14352;
     font-size: xx-large;
     font-weight: 800;
+    text-align: center;
 }
 .mark {
   background: #c14352;
@@ -38,9 +39,3 @@
   margin-left: auto;
   margin-right: auto;
 }
-.topDiv {
-    display: flex;
-    justify-content: space-between;
-    margin-right: 0px;
-    width: 57.5%;
-  }
