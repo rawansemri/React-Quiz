@@ -1,0 +1,64 @@
+{
+  "Questions": [
+    {
+      "id": "1",
+      "question": "Which animal lays eggs?",
+      "choices": ["Dog", "Cat", "Duck", "Sheep"],
+      "rightanswer": "Duck"
+    },
+    {
+      "id": "2",
+      "question": "A male cow is called?",
+      "choices": ["Ox", "Dog", "Sheep","Monkey"],
+      "rightanswer": "Ox"
+    },
+    {
+      "id": "3",
+      "question": " All animals need food, air, and ____ to survive.",
+      "choices": ["House", "Water", "Chocolate4"],
+      "rightanswer": "Water"
+    },
+    {
+      "id": "4",
+      "question": "What is Earth’s only natural satellite?",
+      "choices": ["Sun", "Mars", "Moon"],
+      "rightanswer": "Moon"
+    },
+    {
+      "id": "5",
+      "question": "Frozen water is called",
+      "choices": ["fog", "ice", "steam"],
+      "rightanswer": "ice"
+    },
+    {
+      "id": "6",
+      "question": "The tree has a branch filled with green _____.",
+      "choices": ["Root", "Leaves", "Trunk"],
+      "rightanswer": "Leaves"
+    },
+    {
+      "id": "7",
+      "question": "The two holes of the nose are called?",
+      "choices": ["Nostrils", "Eyelids", "Nails"],
+      "rightanswer": "Nostrils"
+    },
+    {
+      "id": "8",
+      "question": "What star shines in the day and provides light?",
+      "choices": ["Venus", "Moon", "Sun"],
+      "rightanswer": "Sun"
+    },
+    {
+      "id": "9",
+      "question": "What part of the body helps you move?",
+      "choices": ["Eyes", "Lungs", "Muscles"],
+      "rightanswer": "Muscles"
+    },
+    {
+      "id": "10",
+      "question": "Legs have feet and arms have ___.",
+      "choices": ["Hands", "Pelvis", "Ankles"],
+      "rightanswer": "Hands"
+    }
+  ]
+}

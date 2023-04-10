@@ -1,0 +1,64 @@
+{
+  "Questions": [
+    {
+      "id": "1",
+      "question": "What is H2O2 commonly known as?",
+      "choices" : ["Water", "Hydrogen peroxide","Salt"],
+      "rightanswer": "Hydrogen peroxide"
+    },
+    {
+      "id": "2",
+      "question": "Which of the following elements is not a liquid around room temperature?",
+      "choices" : [" Magnesium", "Bromine","Mercury"],
+      "rightanswer": "Magnesium"
+    },
+    {
+      "id": "3",
+      "question": "Which of the followings does not contain potassium?",
+      "choices" : ["Soap", "Gunpowder","Bread"],
+      "rightanswer": "Bread"
+    },
+    {
+      "id": "4",
+      "question": "What do we call the process in which an atom’s nucleus splits into smaller elements?",
+      "choices" : ["Nuclear fusion", "Nuclear fission","Nuclear reaction"],
+      "rightanswer": "Nuclear fission"
+    },
+    {
+      "id": "5",
+      "question": "What is the role of salt in a saline solution or a solution of saltwater?",
+      "choices" : ["Sol", "Solvent","Solute"],
+      "rightanswer": "Solute"
+    },
+    {
+      "id": "6",
+      "question": "Which of the followings is not a rare-earth element?",
+      "choices" : ["Terbium", "Gold","Lanthanum"],
+      "rightanswer": "2"
+    },
+    {
+      "id": "7",
+      "question": "If we fill a glass with ice cubes and water. What will occur when the ice melts?",
+      "choices" : [" The water level remains the same", "The water level increases slightly","The water level decreases slightly"],
+      "rightanswer": "The water level decreases slightly"
+    },
+    {
+      "id": "8",
+      "question": "Based on the pH level, how can we describe milk?",
+      "choices" : ["Slightly acidic", "Neutral","Slightly basic"],
+      "rightanswer": " Slightly acidic"
+    },
+    {
+      "id": "9",
+      "question": "Which of the following elements is heavier than iron?",
+      "choices" : ["Gold", "Manganese","Potassium"],
+      "rightanswer": "Gold"
+    },
+    {
+      "id": "10",
+      "question": " What does AMU stand for in chemistry?",
+      "choices" : ["Atomic Matter Unit", " Atomic Mass Unit","Accelerated Mass Unit"],
+      "rightanswer": "Atomic Mass Unit"
+    }
+  ]
+}

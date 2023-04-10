@@ -1,0 +1,64 @@
+{
+    "Questions": [
+      {
+        "id": "1",
+        "question": "I spoke to ____ ",
+        "choices" : ["she", "her"],
+        "rightanswer": "her"
+      },
+      {
+        "id": "2",
+        "question": "Where ____ you come from?",
+        "choices" : ["do", "are"],
+        "rightanswer": "do"
+      },
+      {
+        "id": "3",
+        "question": "What time does she ___ up?",
+        "choices" : ["get", "gets"],
+        "rightanswer": "get"
+      },
+      {
+        "id": "4",
+        "question": "Where ___ he live?",
+        "choices" : ["do", "does"],
+        "rightanswer": "does"
+      },
+      {
+        "id": "5",
+        "question": "'I am not ____ this film.",
+        "choices" : ["enjoying", "liking"],
+        "rightanswer": "enjoying"
+      },
+      {
+        "id": "6",
+        "question": " I am seeing her ____ three o'clock. ",
+        "choices" : ["in", "at" ,"on"],
+        "rightanswer": "at"
+      },
+      {
+        "id": "7",
+        "question": "Easter is ___ March this year.",
+        "choices" : ["in", "at","on"],
+        "rightanswer": "in"
+      },
+      {
+        "id": "8",
+        "question": "She's ____ work all day today.",
+        "choices" : ["at", "on"],
+        "rightanswer": "at"
+      },
+      {
+        "id": "9",
+        "question": " I go ___ by bus.",
+        "choices" : ["to home", "home"],
+        "rightanswer": "home"
+      },
+      {
+        "id": "10",
+        "question": "It's the second road ___ the left. ",
+        "choices" : ["in", "on","at"],
+        "rightanswer": "on"
+      }
+    ]
+  }

@@ -1,0 +1,3 @@
+export const MATH_LOADING = 'MATH_LOADING';
+export const MATH_ERROR = 'MATH_ERROR';
+export const FETCH_MATH_SUCCESS = 'FETCH_MATH_SUCCESS';

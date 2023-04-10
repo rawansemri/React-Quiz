@@ -1,0 +1,131 @@
+.ChooseStatment{
+    color: black;
+    font-size: xx-large;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 5%;
+  }
+
+  .CategoryContainer{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    row-gap: 50px;
+    justify-content: space-between;
+    margin-top: 7%;
+  }
+
+  
+  .btnMath {
+    border-radius: 8px;
+    border: 1px solid #439bc1;
+    padding: 0.6em 1.2em;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    color: #439bc1;
+    height: 200px;
+    width: 200px;
+  }
+  .btnMath:hover {
+    background-color: #439bc1;
+    color: white;
+  }
+  .btnMath:focus,
+  .btnMath:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
+
+  .btnScience{
+    border-radius: 8px;
+    border: 1px solid #613289;
+    padding: 0.6em 1.2em;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    color: #613289;
+    height: 200px;
+    width: 200px;
+  }
+  .btnScience:hover {
+    background-color: #613289;
+    color: white;
+  }
+  .btnScience:focus,
+  .btnScience:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
+
+  .btnComputer{
+    border-radius: 8px;
+    border: 1px solid #47a338;
+    padding: 0.6em 1.2em;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    color: #47a338;
+    height: 200px;
+    width: 200px;
+  }
+  .btnComputer:hover {
+    background-color: #47a338;
+    color: white;
+  }
+  .btnComputer:focus,
+  .btnComputer:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
+
+  .btnEnglish{
+    border-radius: 8px;
+    border: 1px solid #c18643;
+    padding: 0.6em 1.2em;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    color: #c18643;
+    height: 200px;
+    width: 200px;
+  }
+  .btnEnglish:hover {
+    background-color: #c18643;
+    color: white;
+  }
+  .btnEnglish:focus,
+  .btnEnglish:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
+  .btnChemistry{
+    border-radius: 8px;
+    border: 1px solid #c14352;
+    padding: 0.6em 1.2em;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    color: #c14352;
+    height: 200px;
+    width: 200px;
+  }
+  .btnChemistry:hover {
+    background-color: #c14352;
+    color: white;
+  }
+  .btnChemistry:focus,
+  .btnChemistry:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
