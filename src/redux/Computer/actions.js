@@ -7,12 +7,12 @@ export function FetchComputer() {
     });
     try {
       const res = await fetch(
-        `http://localhost:9000/Questions`
+        `https://computer.free.beeceptor.com/my/api/path`
       );
       const Questions = await res.json();
       dispatch({
         type: COMPUTER_CONSTANTS.FETCH_COMPUTER_SUCCESS,
-        payload: Questions,
+        payload: Questions.Questions,
       });
     } catch (error) {
       dispatch({ type: COMPUTER_CONSTANTS.COMPUTER_ERROR, payload: error });

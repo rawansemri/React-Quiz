@@ -7,12 +7,12 @@ export function FetchScience() {
     });
     try {
       const res = await fetch(
-        `http://localhost:3000/Questions`
+        `https://science.free.beeceptor.com/science`
       );
       const Questions = await res.json();
       dispatch({
         type: SCIENCE_CONSTANTS.FETCH_SCIENCE_SUCCESS,
-        payload: Questions,
+        payload: Questions.Questions,
       });
     } catch (error) {
       dispatch({ type: SCIENCE_CONSTANTS.SCIENCE_ERROR, payload: error });

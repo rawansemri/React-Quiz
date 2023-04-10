@@ -7,12 +7,12 @@ export function FetchChemistry() {
     });
     try {
       const res = await fetch(
-        `http://localhost:5000/Questions`
+        `https://quizes.free.beeceptor.com/chemistry`
       );
       const Questions = await res.json();
       dispatch({
         type: CHEMISTRY_CONSTANTS.FETCH_CHEMISTRY_SUCCESS,
-        payload: Questions,
+        payload: Questions.Questions,
       });
     } catch (error) {
       dispatch({ type: CHEMISTRY_CONSTANTS.CHEMISTRY_ERROR, payload: error });

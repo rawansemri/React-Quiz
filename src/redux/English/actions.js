@@ -7,12 +7,12 @@ export function FetchEnglish() {
     });
     try {
       const res = await fetch(
-        `http://localhost:7000/Questions`
+        `https://english.free.beeceptor.com/english`
       );
       const Questions = await res.json();
       dispatch({
         type: ENGLISH_CONSTANTS.FETCH_ENGLISH_SUCCESS,
-        payload: Questions,
+        payload: Questions.Questions,
       });
     } catch (error) {
       dispatch({ type: ENGLISH_CONSTANTS.ENGLISH_LOADING, payload: error });
